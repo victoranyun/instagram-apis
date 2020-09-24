@@ -1,0 +1,32 @@
+{
+  "name": "ig-api",
+  "version": "1.0.0",
+  "description": "Instagram Graph API Usage",
+  "dependencies": {
+    "axios": "latest",
+    "body-parser": "latest",
+    "express": "latest",
+    "express-handlebars": "latest",
+    "passport": "latest",
+    "passport-facebook": "latest"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victoranyun/ig-api.git"
+  },
+  "keywords": [
+    "instagram",
+    "facebook",
+    "api"
+  ],
+  "author": "Victor Yun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victoranyun/ig-api/issues"
+  },
+  "homepage": "https://github.com/victoranyun/ig-api#readme"
+}
