@@ -1,4 +1,4 @@
-# IG-API
+# Instagram APIs
 
 IG-API that leverages the Instagram Graph API (for backend usage)
 
